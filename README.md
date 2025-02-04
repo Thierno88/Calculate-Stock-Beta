@@ -1,4 +1,5 @@
 # Calculate-Stock-Beta
+<img src="output_beta.png">
 <h3> What is Beta and How to Calculate It? </h3>  
 
 Beta is a measure of a stock's volatility relative to the overall market. It indicates how much a stock's price is expected to move in response to changes in the market index. The market (e.g., S&P 500) has a Beta of 1, and individual stocks have Beta values that indicate their risk level compared to the market:
@@ -10,6 +11,7 @@ Beta < 0 → The stock moves inversely to the market (rare but possible).
 
 <h3> How to Calculate Beta? </h3>
 Beta is calculated using the formula:
+<img src="formula.png">
 
 <h3>  Python Implementation </h3>
 The Beta of a stock (e.g., Tesla) relative to the S&P 500 can be calculated using Python, as shown in the script provided in this repository. 
